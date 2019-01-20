@@ -223,7 +223,6 @@ void LCDShield::clear() {
     PORTF |= (1<<PORTF3);
 }
 
-
 void LCDShield::fill_screen(uint16_t color) {
     uint32_t i;
 
