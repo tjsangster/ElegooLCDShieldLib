@@ -1,5 +1,5 @@
 # ElegooLCDShieldLib
-A basic (yet fast) graphics library for the Elegoo 2.8" LCD shield and Arduino Mega 2560.
+A fast low level graphics library for the Elegoo 2.8" LCD shield and Arduino Mega 2560. Intended to be used as a base for higher level libraries.  
 
 *Features:*
   * Fill screen (much faster than manufacturer included libraries) 
